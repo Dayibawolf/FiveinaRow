@@ -5,7 +5,6 @@
    *********************************************************/
 #include <iostream>
 #include <cstdlib>
-#include <string>
 #include "Manager.h"
 #include "Player.h"
 using namespace std;
